@@ -1,6 +1,5 @@
 # Hello-World
-First Rep
-hi humans!
+First Repository
+
 welcome to you
-is my first repository
 
